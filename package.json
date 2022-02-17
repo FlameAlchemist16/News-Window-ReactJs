@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlameAlchemist16/News-Window-ReactJs.git"
+  },
+  "author": "Mridul Khare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlameAlchemist16/News-Window-ReactJs/issues"
+  },
+  "homepage": "https://github.com/FlameAlchemist16/News-Window-ReactJs#readme"
+}
