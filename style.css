@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+h1{
+    padding-left: 10px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.flexHeading{
+    display: flex;
+    margin: 20px;
+}
+.flexContainer{
+    margin: 0 auto;
+    width: 80vw;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+    place-items: center;
+}
+.News{
+    align-self: center;
+    align-items: center;
+}
+.News:hover{
+    opacity: 0.3;
+}
+.Images{
+    width: 100%;
+
+}
+.description{
+    width: 100%;
+}
